@@ -1,0 +1,10 @@
+ahmed 100
+asim 650
+talha 800
+abc 1000
+taha 1100
+ali 1500
+khan 1750
+abbas 2100
+usman 2200
+mohsin 2700
