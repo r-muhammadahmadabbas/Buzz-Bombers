@@ -1,10 +1,11 @@
-ahmed 100
-asim 650
-talha 800
-abc 1000
-taha 1100
+ryzen 24000
+usamn 2200
+nvme 2100
+csgo 1750
 ali 1500
-khan 1750
-abbas 2100
-usman 2200
-mohsin 2700
+buzzbomber 1100
+cyber 1000
+freaky 800
+penguine 650
+ahmed 100
+
